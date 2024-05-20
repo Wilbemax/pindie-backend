@@ -5,6 +5,7 @@ const ALLOWEDCORS = [
 	'https://students-projects.ru',
 	'http://localhost:3000',
 	'http://localhost:3001',
+	'https://wbm-yandex.nomoredomainswork.ru'
 ];
 
 function cors(req, res, next) {
